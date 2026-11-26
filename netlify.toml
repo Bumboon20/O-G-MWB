@@ -1,0 +1,8 @@
+[build]
+  publish = "."
+
+# Keep old links to the original file name working
+[[redirects]]
+  from = "/Findings"
+  to = "/"
+  status = 301
